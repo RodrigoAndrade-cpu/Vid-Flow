@@ -56,4 +56,5 @@ Para rodar localmente:
 . json-server (para API fake)
 
 📝 Autor
+
 Rodrigo César Andrade de Oliveira  
