@@ -1,5 +1,5 @@
 📺 VidFlow
-VidFlow é uma plataforma web inspirada no layout do YouTube. O projeto consome dados de uma API local e exibe vídeos categorizados com opções de busca e filtro.
+é uma plataforma web inspirada no layout do YouTube. O projeto consome dados de uma API local e exibe vídeos categorizados com opções de busca e filtro.
 
 🚀 Funcionalidades
 . Exibição de vídeos via iframe.
